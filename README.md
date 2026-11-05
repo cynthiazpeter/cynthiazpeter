@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Cynthia! 
 
-<!--
-**cynthiazpeter/cynthiazpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Commerce student, curious mind, and an
+independent learner exploring the intersections
+of finance, research, technology and creativity.
 
-Here are some ideas to get you started:
+## A little about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in understanding how the world
+works, from financial systems and economic
+trends to technology, culture and everyday life.
+
+I enjoy turning curiosity into tangible work
+through research, writing, visual storytelling
+and independent projects.
+
+## Currently exploring
+
+- Finance and Economics
+- Research and Data Analysis
+- Technology and AI
+- Digital Design and Visual Storytelling
+- Web Development
+
+## What I'm building
+
+- Personal Portfolio: A space documenting
+  my projects, ideas and explorations.
+- MARGIN: An independent research and
+  visual storytelling project.
+
+## Beyond the screen
+
+Photography | Sketching | Writing | Music
+
+---
+
+*Curiosity first. Creation always.*
